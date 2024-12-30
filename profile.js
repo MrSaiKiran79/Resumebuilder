@@ -4,9 +4,7 @@ const profileData = {
     sub_title: "Junior Software Engineer",
     logoURL: "assets/images/dp.jpg",
     about: {
-      intro: `I am an innovative and passionate developer with a primary interest in <strong>JavaScript</strong>
-       and its applications. Ready to start my carrer in designing and implementing sophisticated UI/UX with
-        Progressive Web Application standards and application life-cycle management.`,
+      intro: Dynamic and detail-oriented Computer Science graduate with hands-on experience in software development and testing. Proficient in Python, Java, SQL, and web development technologies (HTML, CSS, JavaScript). Skilled in manual and automation testing, algorithm optimization, and debugging. Completed a project on "Phishing Link Detection," showcasing strong problem-solving and analytical abilities. Certified in Java Full Stack Development and adept at collaborative team projects. Experienced as a Junior Software Engineer at VTS Enterprise, excelling in coding, documentation, and performance optimization. Proven ability to deliver quality results under tight deadlines and eager to drive excellence in Quality Assurance roles. Excellent communication skills, customer-focused approach, and a passion for continuous learning make me a valuable asset in fast-paced tech environments. Seeking opportunities to leverage technical expertise and a proactive attitude in ensuring software quality and reliability..`,
       contact: {
         email: "kondojusaikiran78@gmail.com",
         phone: "+91-7981544362",
