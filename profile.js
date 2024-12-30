@@ -1,14 +1,14 @@
 const profileData = {
     title: "Resume",
     name: "Kondoju SaiKiran",
-    sub_title: "Frontend Engineer",
+    sub_title: "Junior Software Engineer",
     logoURL: "assets/images/dp.jpg",
     about: {
       intro: `I am an innovative and passionate developer with a primary interest in <strong>JavaScript</strong>
        and its applications. Ready to start my carrer in designing and implementing sophisticated UI/UX with
         Progressive Web Application standards and application life-cycle management.`,
       contact: {
-        email: "saikirankondoju78@gmail.com",
+        email: "kondojusaikiran78@gmail.com",
         phone: "+91-7981544362",
         address: "Hyderbad,Telangana,India"
       }
@@ -22,7 +22,7 @@ const profileData = {
     ],
     education: [
       {
-        alma:"SPHN,Hyderbad",
+        alma:"Jawaharlal Nehru Technological University Hyderabad,Hyderbad",
         duration: "2020 - 2024",
         std: "B.Tech. (Computer Science & Engineering)",
         score: "70.00%"
@@ -34,7 +34,7 @@ const profileData = {
         score: "75.00%"
       },
       {
-        alma: "SGHS,Hyderbad",
+        alma: "Siddhartha Grammar High School ,Hyderbad",
         duration: "2012 - 2018",
         std: "Class VI - X",
         score: "88.00%"
@@ -44,6 +44,18 @@ const profileData = {
       {
         category: "Programming Languages",
         topics: ["Python", "Java"]
+      }
+      {
+        category: "Web Development:",
+        topics:["HTML"," CSS","JavaScript","ReactJS"]
+      },
+      {
+        category: "Testing: ",
+        topics:["Manual ","Automation"]
+      },
+    {
+        category: "Testing tools: ",
+        topics:["Selenium"," PostMan",]
       },
       {
         category: "Other Skills",
